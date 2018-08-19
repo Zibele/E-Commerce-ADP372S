@@ -1,0 +1,18 @@
+STATUE,STAT001,Ashe-Statue,A Statue of the League of legends character Ashe,449.00,items/Ashe-Statue.jpg
+STATUE,STAT002,Braum-Statue,A Statue of the League of legends character Braum,449.00,items/Braum-Statue.jpg
+STATUE,STATG003,Poppy-Statue,A Statue of the League of legends character Poppy,549.00,items/Poppy-Statue.jpg
+STATUE,STAT004,Yasuo-Statue,A Statue of the League of legends character Yasuo,799.00,items/Yasuo-Statue.jpg
+STATUE,STAT005,Zed-Statue,A Statue of the League of legends character Ashe,799.00,items/Zed-Statue.jpg
+STATUE,STAT006,Lunar-Statue,A Statue of the League of legends character Ashe,449.00,items/Lunar-Statue.jpg
+STATUE,STAT007,Katarina-Statue,A Statue of the League of legends character Ashe,449.00,items/Katarina-Statue.jpg
+STATUE,STAT008,Teemo-Statue,A Statue of the League of legends character Ashe,549.00,items/Teemo-Statue.jpg
+STATUE,STAT011,Ekko-Statue,A Statue of the League of legends character Ashe,549.00,items/Ekko-Statue.jpg
+STATUE,STAT012,Vi-Statue,A Statue of the League of legends character Ashe,549.00,items/Vi-Statue.jpg
+STATUE,STAT013,Thresh-Statue,A Statue of the League of legends character Ashe,799.00,items/Thresh-Statue.jpg
+FIGURE,FIG001,Draven-Figurine,A Figurine of the league of legends character Draven,399.00,items/Draven-Fig.jpg
+FIGURE,FIG002,Jhin-Figurine,A Figurine of the league of legends character Jhin,299.00,items/Jhin-Fig.jpg
+FIGURE,FIG003,URF-Figurine,A Figurine of the league of legends character URF,299.00,items/URF-Fig.jpg
+FIGURE,FIG004,Vayne-Figurine,A Figurine of the league of legends character Vayne,399.00,items/Vayne-Fig.jpg
+FIGURE,FIG005,Taric-Figurine,A Figurine of the league of legends character Taric,299.00	items/Taric-Fig.jpg
+FIGURE,FIG006,Lunar-Figurine,A Figurine of the league of legends character Lunar,299.00,items/Lunar-Fig.jpg
+FIGURE,FIG007,Ziggs-Figurine,A Figurine of the league of legends character Zigs,399.00,items/Ziggs-Fig.jpg

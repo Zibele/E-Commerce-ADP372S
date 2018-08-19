@@ -1,0 +1,3 @@
+CUST001,Zibele,Zibele@OpenAI.com,Zibele,true,ADD001
+CUST002,Qasim,Qasim@ITouch.com,Qasim,true,ADD002
+CUST003,Joseph,Joseph@Tesla.com,Joseph,true,ADD003

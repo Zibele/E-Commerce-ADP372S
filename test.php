@@ -1,12 +1,13 @@
 <?php
 
 include('sessions.php');
-require_once ('class_Store.php');
 require_once('cart_management.php');
 
+require_once ('class_Store.php');
 
 
-unset($_SESSION['currentStore']);
+
+
 
 
 

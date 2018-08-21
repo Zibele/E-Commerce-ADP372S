@@ -16,7 +16,7 @@ $Store = unserialize($_SESSION['currentStore']);
 else {
 	
 $Store = new Store("localhost","3308","root","","ecommerce");
-$_SESSION['currentStore']=$Store;
+$_SESSION['currentStore']=serialize($Store);
 }
 
 if($Store==NULL){

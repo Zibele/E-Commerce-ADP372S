@@ -6,7 +6,7 @@ require_once('cart_management.php');
 
 
 
-//unset($_SESSION['currentStore']);
+unset($_SESSION['currentStore']);
 
 
 
